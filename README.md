@@ -67,7 +67,6 @@ It would be nice if the images were flexible. The columns of the grid change siz
 ```CSS
 .PLACESSpace img {
     width: 100%;
-    height: auto;
 }
 ```
 
